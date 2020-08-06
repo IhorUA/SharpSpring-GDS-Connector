@@ -1,0 +1,16 @@
+{
+  "dataStudio": {
+    "name": "SharpSpring Connector",
+    "company": "None",
+    "logoUrl": "https://theme.zdassets.com/theme_assets/1327359/6912a6fc3cb4a0d43849a48c87d262939c81085f.png",
+    "addonUrl": "https://github.com/IhorUA/SharpSpring-GDS-Connector",
+    "supportUrl": "https://github.com/IhorUA/SharpSpring-GDS-Connector",
+    "description": "This connector can be used to connect your SharpSpring data"
+  },
+
+  "timeZone": "Europe/Bucharest",
+  "dependencies": {
+  },
+  "exceptionLogging": "STACKDRIVER",
+  "runtimeVersion": "V8"
+}
